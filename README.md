@@ -1,4 +1,4 @@
-## <div align="center">👋 Hi there, I'm Dweep VIra.<br>A BTech Student in Computer Science 👨‍💻 at the K.J Somaiya Institute of Technology</div>
+## <div align="center">👋 Hi there, I'm Dweep Vira.<br>A BTech Student in Computer Science 👨‍💻 at the K.J Somaiya Institute of Technology</div>
 
 
 - [x] BTech: CGPA: 9.4
