@@ -1,8 +1,9 @@
 ## <div align="center">👋 Hi there, I'm Dweep VIra.<br>A BTech Student in Computer Science 👨‍💻 at the K.J Somaiya Institute of Technology</div>
 
 
-- [ ] BTech: Last Year
+- [x] BTech: CGPA: 9.4
 - [x] LinkedIn: [dweepvira](https://www.linkedin.com/in/dweepvira/)
+- [x] Kaggle: [dweepvira](https://www.kaggle.com/dweepvira)
 
 ## 🛠 Skill Set and Toolkits
 
