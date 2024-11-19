@@ -1,6 +1,7 @@
-## <div align="center">👋 Hi there, I'm Dweep Vira.<br>A BTech Student in Computer Science 👨‍💻 at the K.J Somaiya Institute of Technology</div>
+## <div align="center">👋 Hi there, I'm Dweep Vira.<br>A MTech Student in Computer Science (Specialization in Artificial Intelligence & Data Science) 👨‍💻 at the Veermata Jijabai Technological Institute (VJTI) </div>
 
 
+- [ ] MTech : Ongoing
 - [x] BTech: CGPA: 9.4
 - [x] LinkedIn: [dweepvira](https://www.linkedin.com/in/dweepvira/)
 - [x] Kaggle: [dweepvira](https://www.kaggle.com/dweepvira)
