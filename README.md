@@ -1,13 +1,5 @@
 ## <div align="center">👋 Hi there, I'm Dweep Vira.<br>A MTech Student in Computer Science (Specialization in Artificial Intelligence & Data Science) 👨‍💻 at the Veermata Jijabai Technological Institute (VJTI) </div>
 
-- [x] BTech: CGPA: 9.4
-- [x] LinkedIn: [dweepvira](https://www.linkedin.com/in/dweepvira/)
-- [x] Kaggle: [dweepvira](https://www.kaggle.com/dweepvira)
-
-<br>
-<br>
-
-
 <div align="center"> 
   
 <!--   <h2>🐍 Contributions 🐍</h2>
@@ -27,8 +19,6 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/dweepvira?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
-
-
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
@@ -37,11 +27,9 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=dweepvira&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/toplangs/?username=dweepvira&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-  <br/>
+<br/>
 
 <br/><br/>
-
 
 ## 🛠 Skill Set and Toolkits
 
@@ -95,3 +83,5 @@
     
   </div>
 </div>
+- [x] LinkedIn: [dweepvira](https://www.linkedin.com/in/dweepvira/)
+- [x] Kaggle: [dweepvira](https://www.kaggle.com/dweepvira)
