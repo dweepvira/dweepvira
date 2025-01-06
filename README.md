@@ -1,5 +1,6 @@
 ## <div align="center">👋 Hi there, I'm Dweep Vira.<br>A MTech Student in Computer Science (Specialization in Artificial Intelligence & Data Science) 👨‍💻 at the Veermata Jijabai Technological Institute (VJTI) </div>
-
+- [x] LinkedIn: [dweepvira](https://www.linkedin.com/in/dweepvira/)
+- [x] Kaggle: [dweepvira](https://www.kaggle.com/dweepvira)
 <div align="center"> 
   
 <!--   <h2>🐍 Contributions 🐍</h2>
@@ -83,5 +84,5 @@
     
   </div>
 </div>
-- [x] LinkedIn: [dweepvira](https://www.linkedin.com/in/dweepvira/)
-- [x] Kaggle: [dweepvira](https://www.kaggle.com/dweepvira)
+
+
